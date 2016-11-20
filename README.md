@@ -7,7 +7,7 @@ It is written in Java, and based on the generalized 3D tic-tac-toe project.
 
 The board is square, containing 8x8 square cells. Cells are alternatively colored white and green, with the lower left corner colored green. Cells connected by a corner share the same color. Only green cells are used in the game.
 
-The game starts with red (or black) pieces in the top three rows, and white pieces in the bottom three rows (see Figure 1). The red player controls the red pieces and the white player controls the white pieces.
+The game starts with red (or black) pieces in the top three rows, and white pieces in the bottom three rows. The red player controls the red pieces and the white player controls the white pieces.
 
 There are two kinds of pieces: normal pieces, and kings. Initially, all pieces are normal, but any piece that reaches the last row will become a king.
 
