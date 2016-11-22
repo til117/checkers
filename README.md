@@ -32,11 +32,11 @@ If a piece moves into the last row, that piece is “crowned” and becomes a ki
 
 # Input
 
-You will be given a game state which consists of a board, whose turn it is, what the last move was, and how many moves there are left until draw if no captures are made.
+A game state which consists of a board, whose turn it is, what the last move was, and how many moves there are left until draw if no captures are made.
 
 # Output
 
-Your agent program should output the next game state in the same format, i.e. what the board looks like after applying your turn, which player is next, what your move was, and how many moves left there are until draw. This is taken care of for you by the skeleton.
+The agent program outputs the next game state in the same format, i.e. what the board looks like after applying your turn, which player is next, what your move was, and how many moves left there are until draw. This is taken care of by the skeleton.
 
 # To play in a single terminal
 
